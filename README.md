@@ -24,6 +24,8 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 - 🖼️ **Custom Logo & Background Support**  
   Project supports personalized branding via logo and background image.
 
+  ![landing](./screenshots/landing.png)
+
 ---
 
 ## 🛠️ Technologies Used
