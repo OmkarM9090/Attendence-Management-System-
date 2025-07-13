@@ -34,7 +34,7 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 | Page | Description | Screenshot |
 |------|-------------|------------|
 | Landing Page | Welcome interface before admin/user login selection | ![Landing](./screenshots/landing.png) |
-| Year Selection Page | Select year (FE, SE, TE, BE) | ![Year Selection](.screenshots/year.png) |
+| Year Selection Page | Select year (FE, SE, TE, BE) | ![Year Selection](.screenshots/newyear.png) |
 | Admin Page | adminr login-in page | ![Admin Page](./screenshots/admin.png) |
 | Home Page | Options to view information or take attendance | ![Home Page](./screenshots/home.png) |
 | Information Page | Displays class-wise student data | ![Information](./screenshots/information.png) |
