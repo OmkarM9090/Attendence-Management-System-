@@ -12,7 +12,7 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 
 - 🧾 **Display Absentees**  
   Results are shown on a new GUI page with formatted output.  
-  ![report](./screenshots/newreport.png)
+  ![report](./screenshots/abtreport.png)
 
 
 - 📋 **Copy Report Button**  
@@ -40,7 +40,7 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 | Information Page | Displays class-wise student data | ![Information](./screenshots/information.png) |
 | Login Page | Enter credentials to sign in | ![Login Page](./screenshots/loginpage.png) |
 | Name Page | Input student roll number to check attendance | ![Name Page](./screenshots/name.png) |
-| Report Page | Display of absent student(s) with copy button | ![Report](./screenshots/report.png) |
+| Report Page | Display of absent student(s) with copy button | ![Report](./screenshots/abtreport.png) |
 | Update Page | Feature to update student data (if implemented) | ![Update](./screenshots/update.png) |
 
 ---
