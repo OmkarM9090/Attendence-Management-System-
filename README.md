@@ -105,6 +105,10 @@ phone	BIGINT	Phone number (Primary Key)
 gender	CHAR(50)	Gender
 class	CHAR(50)	Class/Division (e.g., BE-A, FE-A)
 
+The bea table is used to store the student data for the Final Year - A Division (commonly referred to as BE-A in engineering colleges).
+It includes key student information such as roll number, contact details, gender, and class.
+Each student is uniquely identified using their phone number as the primary key.
+Similar tables (e.g., fea, sea, tea) can be created for other years or divisions based on the college or school's academic structure.
 
 ---
 
