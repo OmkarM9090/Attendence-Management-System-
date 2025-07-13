@@ -152,7 +152,8 @@ gender	CHAR(50)	Gender
 
 **Omkar Mahadik**  
 🎓 Computer Engineering Student  
-🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mahadik-976532283/)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkar-mahadik-976532283/)
+
 
 
 📜 License
