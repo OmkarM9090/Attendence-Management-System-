@@ -8,13 +8,11 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 
 - 🔍 **Search by Roll Number**  
   Enter a roll number to find and display the absent student's name and roll number.  
-  <br>
-  <img src="./screenshots/attendencesheet.png" alt="Search Page" width="500"/>
+  ![Search Page](./screenshots/attendencesheet.png)
 
 - 🧾 **Display Absentees**  
   Results are shown on a new GUI page with formatted output.  
-  <br>
-  <img src="./screenshots/report.png" alt="Report Page" width="500"/>
+  ![Report Page](./screenshots/report.png)
 
 
 - 📋 **Copy Report Button**  
