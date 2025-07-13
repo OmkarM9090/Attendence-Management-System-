@@ -12,7 +12,7 @@ A desktop-based **Attendance Management System** built using **Java Swing** for 
 
 - 🧾 **Display Absentees**  
   Results are shown on a new GUI page with formatted output.  
-  ![report](./screenshots/report.png)
+  ![report](./screenshots/newreport.png)
 
 
 - 📋 **Copy Report Button**  
