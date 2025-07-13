@@ -82,10 +82,11 @@ Run Main.java
 ---
 
 🗃️ Database Schema
-📌 Table: bea – Student Data (BE A Division)
-sql
-Copy
-Edit
+### 📌 Table: `bea` – Student Data (BE A Division)
+
+#### 💡 SQL Schema
+
+```sql
 CREATE TABLE bea (
     name VARCHAR(50),
     roll INT,
@@ -94,6 +95,7 @@ CREATE TABLE bea (
     gender CHAR(50),
     class CHAR(50)
 );
+🧾 Column Description
 Column Name	Data Type	Description
 name	VARCHAR(50)	Full name of the student
 roll	INT	Roll number of the student
@@ -102,12 +104,17 @@ phone	BIGINT	Phone number (Primary Key)
 gender	CHAR(50)	Gender
 class	CHAR(50)	Class/Division (e.g., BE-A, FE-A)
 
-ℹ️ You can create similar tables like fea, tea, sea etc. for other classes/divisions.
 
-📌 Table: teacher – Login/Signup System
-sql
-Copy
-Edit
+---
+
+Use the same structure for the `teacher` table. Here’s the **correct version for that too**:
+
+
+### 📌 Table: `teacher` – Login/Signup System
+
+#### 💡 SQL Schema
+
+```sql
 CREATE TABLE teacher (
     username VARCHAR(50),
     password VARCHAR(50),
@@ -115,6 +122,7 @@ CREATE TABLE teacher (
     emailid VARCHAR(50),
     gender CHAR(50)
 );
+🧾 Column Description
 Column Name	Data Type	Description
 username	VARCHAR(50)	Teacher's username
 password	VARCHAR(50)	Account password
