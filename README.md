@@ -148,10 +148,12 @@ gender	CHAR(50)	Gender
 
 ---
 
-👨‍💻 Author
-Omkar Mahadik
-🎓 Computer Engineering Student
-🔗 LinkedIn https://www.linkedin.com/in/omkar-mahadik-976532283/
+## 👨‍💻 Author
+
+**Omkar Mahadik**  
+🎓 Computer Engineering Student  
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mahadik-976532283/)
+
 
 📜 License
 This project is licensed under the MIT License.
