@@ -97,6 +97,8 @@ CREATE TABLE teacher (
     emailid VARCHAR(50),
     gender CHAR(50)
 );
+
+---
 📷 Screenshots
 🏠 Home / Search Page
 
@@ -104,7 +106,7 @@ CREATE TABLE teacher (
 
 🧾 Copy Report Button
 
-Place your images in assets/screenshots/ and update the file paths above.
+---
 
 🔜 Upcoming Features (Planned)
 📤 Export attendance report to Excel and PDF
@@ -114,11 +116,10 @@ Place your images in assets/screenshots/ and update the file paths above.
 📊 Dashboard with class-wise attendance analytics
 
 🧠 AI-based trend insights (Smart Alerts)
-
+---
 👨‍💻 Author
 Omkar Mahadik
 🎓 Computer Engineering Student
-📫 omkarmahadiik@example.com
 🔗 LinkedIn
 
 📜 License
